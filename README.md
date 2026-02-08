@@ -20,7 +20,7 @@ The project builds on both Windows and Linux.
 ## Requirements
 
 -   CMake 3.16 or newer
--   C++17 compatible compiler
+-   C++20 compatible compiler
 -   Qt 6
 -   libcurl
 -   OpenSSL development libraries
