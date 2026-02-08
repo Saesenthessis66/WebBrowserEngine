@@ -11,7 +11,7 @@ find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 FetchContent_Declare(
     curl
     GIT_REPOSITORY https://github.com/curl/curl.git
-    GIT_TAG curl-8_5_0
+    GIT_TAG curl-8_18_0
 )
 
 set(BUILD_CURL_EXE OFF CACHE BOOL "" FORCE)
